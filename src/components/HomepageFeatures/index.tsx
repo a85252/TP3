@@ -10,22 +10,27 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Serviços de Oficina',
+    Svg: require('@site/static/img/undraw_automobile_repair_ywci.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Seja uma simples troca de óleo, reparos mecânicos mais complexos, 
+        serviços de manutenção preventiva ou diagnósticos avançados, estamos 
+        aqui para proporcionar um atendimento de qualidade excepcional. Nossa oficina 
+        é equipada com tecnologia de ponta, permitindo-nos lidar eficientemente com desafios 
+        mecânicos e elétricos.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Variedade',
+    Svg: require('@site/static/img/undraw_on_the_way_re_swjt.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Nos destacamos pela expertise em lidar não apenas com uma ampla variedade de veículos, 
+        mas também com uma diversidade de objetos essenciais para o seu estilo de vida automotivo. 
+        Desde carros de passeio a veículos utilitários, motocicletas, e até mesmo acessórios 
+        como capacetes.
       </>
     ),
   },
