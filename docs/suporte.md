@@ -18,7 +18,7 @@ Para suporte imediato, não hesite em nos ligar:
 
 Para consultas gerais ou informações, você pode nos enviar um email:
 
-**a85252@ualg.pt** [a85252@ualg.pt](mailto:a85252@ualg.pt)
+**a85252@ualg.pt** [a85252@ualg.pt]
 
 ### Visita à Oficina
 
