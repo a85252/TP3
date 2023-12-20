@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Variedade',
-    Svg: require('@site/static/img/undraw_pen_tool_re_s9.svg').default,
+    Svg: require('@site/static/img/undraw_pen_tool_re_s92o.svg').default,
     description: (
       <>
         Nos destacamos pela expertise em lidar não apenas com uma ampla variedade de veículos, 
