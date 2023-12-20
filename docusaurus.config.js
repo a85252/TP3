@@ -40,11 +40,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        },  
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -65,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Menu',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -92,13 +91,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Wiki',
+                to: 'https://github.com/a85250/TP2_3.git',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidade',
             items: [
               {
                 label: 'Stack Overflow',
@@ -115,7 +114,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
                 label: 'Blog',
@@ -128,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Oficina ADC, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
