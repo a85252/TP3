@@ -72,7 +72,6 @@ const config = {
       items: [
         {to: '/docs/servicos-oficina', label: 'Serviços de Oficina', position: 'left'},
         {to: '/docs/equipamento-manutencao', label: 'Equipamento e Manutenção', position: 'left'},
-        {to: '/docs/o-seu-veiculo', label: 'O Seu Veículo', position: 'left'},
         {to: '/docs/suporte', label: 'Suporte', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
