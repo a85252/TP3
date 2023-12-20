@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Variedade',
-    Svg: require('@site/static/img/undraw_on_the_way_re_swjt.svg').default,
+    Svg: require('@site/static/img/undraw_pen_tool_re_s9.svg').default,
     description: (
       <>
         Nos destacamos pela expertise em lidar não apenas com uma ampla variedade de veículos, 
@@ -35,12 +35,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Serviço Veicular Premium',
+    Svg: require('@site/static/img/undraw_on_the_way_re_swjt.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Oferecemos entrega e devolução gratuitas, rapidez no centro em até 1 hora, 
+        preservação da garantia do construtor e facilidades de pagamento em até 3 
+        ou 4 vezes sem juros. Sua jornada, nossa prioridade.
       </>
     ),
   },
